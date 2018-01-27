@@ -20,6 +20,10 @@ public class NameController {
 			n.setGender("F");
 			n.setMeaning("Beloved");
 		}
+		else {
+			n.setGender("U");
+			n.setMeaning("Unknown");
+		}
 		return n;
 	}
 }
