@@ -5,4 +5,4 @@ For this Playbook, we create a very simple REST web service that has one GET req
 
 Note that we're just hard-coding the logic as opposed wiring up a database. We'll cover that in a future Playbook.
 
-For a short video and step-by-step walk-thru as well as tips, tricks, and online resources, visit the Playbook here.
+For a short video and step-by-step walk-thru as well as tips, tricks, and online resources, visit the [Playbook](https://devplaybook.com/2018/01/27/build-a-rest-web-service-in-java-with-spring-boot/) here.
